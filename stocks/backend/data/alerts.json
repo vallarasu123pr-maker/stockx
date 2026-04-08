@@ -1,0 +1,17 @@
+{
+  "alerts": [
+    {
+      "user_id": "demo_user",
+      "ticker": "AAPL",
+      "type": "price_change_up",
+      "target_price": null,
+      "target_percentage": null,
+      "base_price": 170.0682936709526,
+      "email": null,
+      "id": "alert_1_1772977332",
+      "created_at": "2026-03-08T19:12:12.920393",
+      "status": "active"
+    }
+  ],
+  "alert_history": []
+}
